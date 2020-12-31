@@ -2,7 +2,7 @@
 
 This package has some sample code using Puppeteer with a proxy. 
 
-[Video](https://www.youtube.com/watch?v=nwS6TgXRTQk&feature=youtu.be)
+[Full guide](https://javascriptwebscrapingguy.com/using-puppeteer-with-a-proxy)
 
 ## Getting Started
 
