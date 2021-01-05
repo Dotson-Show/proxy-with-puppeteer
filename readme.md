@@ -34,7 +34,7 @@ npm i
 
 ## Authors
 
-* **Jordan Hansen** - *Initial work* - [Jordan Hansen](https://developers.google.com/web/tools/puppeteer)
+* **Jordan Hansen** - *Initial work* - [Jordan Hansen](https://github.com/aarmora)
 
 
 ## License
