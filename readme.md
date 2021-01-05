@@ -30,7 +30,7 @@ npm i
 ## Built With
 
 * [NodeJS](https://nodejs.org/en/) - NodeJS
-* [puppeteer](https://github.com/axios/axios) - Promise based http request package
+* [puppeteer](https://pptr.dev/) - Headless Chrome
 
 ## Authors
 
